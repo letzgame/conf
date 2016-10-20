@@ -1,6 +1,6 @@
 {
   "httpsrv": "https://raw.githubusercontent.com/wowogame/asst/master/",
-  "parse_server": "http://45.79.101.16:1338/bingo",
+  "parse_server": "http://62.210.37.9:1338/bingo",
   "server_status": 2,
   "server_msg": "In maintain, Please wait for 30 mins",
   "jr":1,
