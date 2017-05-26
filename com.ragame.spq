@@ -6,7 +6,7 @@
   "server_msg": "",
   "jr":0,
   "pausead":30,
-  "bgamead":30,
+  "bgamead":0,
   "freespinad":0,
   "storevideo":100,
   "startad":0,
