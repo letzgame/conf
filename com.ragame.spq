@@ -19,6 +19,6 @@
   "rv_unityads":2,
   "rv_vungle":3,
   "video_rewards":1000,
-  "amazon":1,
+  "amazon":0,
   "ver": 100
 }
