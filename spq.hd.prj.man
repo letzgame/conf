@@ -7,7 +7,7 @@
 
 	"assets" : {
 		"update1.zip" : {
-			"md5" : "...",
+			"md5" : "d4e52200ed35ec48e4ce40eed11e937b",
 			"compressed":true
 		}
 	},
