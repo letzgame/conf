@@ -2,12 +2,12 @@
 	"packageUrl" : "https://raw.githubusercontent.com/wowogame/asst/master/spq/sd/",
 	"remoteManifestUrl" : "https://raw.githubusercontent.com/letzgame/conf/master/spq.sd.prj.man",
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/letzgame/conf/master/spq.sd.ver.man",
-	"version" : "1.3.0",
+	"version" : "1.0.0",
 	"engineVersion" : "3.10",
 
 	"assets" : {
 		"update1.zip" : {
-			"md5" : "130",
+			"md5" : "100",
 			"compressed":true
 		}
 	},
