@@ -4,7 +4,7 @@
   "server_status": 0,
   "server_msg": "",
   "jr":0,
-  "pausead":50,
+  "pausead":100,
   "bgamead":0,
   "freespinad":30,
   "storevideo":100,
@@ -18,7 +18,7 @@
   "rv_unityads":2,
   "rv_vungle":3,
   "video_rewards":1000,
-  "amazon":1,
-  "samsung":1,
+  "amazon":0,
+  "samsung":0,
   "ver": 100
 }
