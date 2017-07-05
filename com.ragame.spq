@@ -18,7 +18,7 @@
   "rv_unityads":2,
   "rv_vungle":3,
   "video_rewards":1000,
-  "amazon":0,
-  "samsung":0,
+  "amazon":1,
+  "samsung":1,
   "ver": 100
 }
