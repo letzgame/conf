@@ -20,6 +20,6 @@
   "video_rewards":1000,
   "amazon":0,
   "samsung":0,
-  "windows":0,
+  "windows":1,
   "ver": 100
 }
