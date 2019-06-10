@@ -8,7 +8,7 @@
   "bgamead":30,
   "freespinad":30,
   "storevideo":100,
-  "startad":30,
+  "startad":0,
   "missionad":30,
   "fs_admob":2,
   "fs_chartboost":1,
